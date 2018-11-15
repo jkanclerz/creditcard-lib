@@ -29,7 +29,7 @@ public class CreditCardApiTest {
     }
     
     private void thereIsCreditCardApi() {
-        this.api = new CreditCardApi();
+        this.api = new CreditCardApi(this.repository);
     }
     
     private void thereIsCreditCardRepository() {

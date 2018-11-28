@@ -1,4 +1,4 @@
-package pl.jkan.creditcard;
+package pl.jkan;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.SpringApplication;
